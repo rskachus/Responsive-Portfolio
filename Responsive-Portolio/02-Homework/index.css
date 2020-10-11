@@ -1,0 +1,49 @@
+.navbar {
+    border-bottom: 1px solid black;
+}
+
+.profile-picture-holder {
+    width: 100vw;
+    text-align: center;
+}
+
+.profile-picture {
+    display: inline-block;
+    width: 25%;
+    margin-top: 20px;
+}
+
+.jumbotron {
+    text-align: center;
+}
+
+.lead {
+    display: block;
+    margin-top: 10px;
+}
+
+.display-4 {
+    display: block;
+}
+
+.form-group {
+    display: block;
+}
+
+.contact-form-holder {
+    width: 100%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.contact-form {
+    display: inline-block;
+    width: 40%;
+}
+
+.contact-header {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+
